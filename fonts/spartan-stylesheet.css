@@ -1,0 +1,21 @@
+/* spartan-regular - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/spartan-v3-latin-regular.woff');
+}
+/* spartan-500 - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/spartan-v3-latin-500.woff');
+}
+/* spartan-700 - latin */
+@font-face {
+  font-family: 'Spartan';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/spartan-v3-latin-700.woff');
+}
